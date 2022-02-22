@@ -24,7 +24,7 @@ public class ObterProdutos {
 				.doubleValue();
 		
 		System.out.println("O valor total dos produtos é: R$" + precoTotal);
-		dao.fecharDAO();
+		dao.fechar();
 	}
 
 }

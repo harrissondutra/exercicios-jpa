@@ -10,7 +10,7 @@ public class NovoProduto {
 		DAO<Produto> dao = new DAO<>(Produto.class);
 		
 		Produto produto = new Produto("iPad", 3000.00);
-		dao.incluirAtomico(produto).fecharDAO();;
+		dao.incluirAtomico(produto).fechar();;
 
 	}
 

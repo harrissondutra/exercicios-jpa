@@ -1,8 +1,5 @@
 package modelo.muitospramuitos;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -17,7 +14,7 @@ public class Tio {
 	
 	private String nome;
 	
-	private List<Sobrinho> sobrinhos = new ArrayList<>();
+//	private List<Sobrinho> sobrinhos = new ArrayList<>();
 	
 	public Tio() {
 		

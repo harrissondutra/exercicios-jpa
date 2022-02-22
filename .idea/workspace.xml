@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90dba2f2-5cb4-4c08-9fa1-d327322d77af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios-jpa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/infra/DAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/infra/DAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/infra/ProdutoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/infra/ProdutoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/basico/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/basico/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/basico/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/basico/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/muitospramuitos/Sobrinho.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/muitospramuitos/Sobrinho.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/muitospramuitos/Tio.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/muitospramuitos/Tio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/umpramuitos/ItemPedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/umpramuitos/ItemPedido.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/umpramuitos/Pedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/umpramuitos/Pedido.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/umpraum/Assento.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/umpraum/Assento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/modelo/umpraum/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/modelo/umpraum/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/AlterarUsuario1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/AlterarUsuario1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/AlterarUsuario2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/AlterarUsuario2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/AlterarUsuario3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/AlterarUsuario3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/NovoProduto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/NovoProduto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/NovoUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/NovoUsuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/ObterProdutos.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/ObterProdutos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/ObterUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/ObterUsuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/ObterUsuarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/ObterUsuarios.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/basico/RemoverUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/basico/RemoverUsuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/umpramuitos/NovoPedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/umpramuitos/NovoPedido.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/umpramuitos/ObterPedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/umpramuitos/ObterPedido.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/umpraum/NovoClienteAssento1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/umpraum/NovoClienteAssento1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/umpraum/NovoClienteAssento2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/umpraum/NovoClienteAssento2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/teste/umpraum/ObterClienteAssento.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/teste/umpraum/ObterClienteAssento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/infra/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/infra/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/umpraum/Assento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/umpraum/Assento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/teste/umpraum/ObterClienteAssento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teste/umpraum/ObterClienteAssento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fastRequestCollection.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +38,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645499859877</updated>
-      <workItem from="1645499864126" duration="3000" />
+      <workItem from="1645499864126" duration="597000" />
+      <workItem from="1645533327675" duration="7000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

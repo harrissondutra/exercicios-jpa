@@ -13,11 +13,11 @@ public class NovoClienteAssento1 {
 		
 		DAO<Object> dao = new DAO<>();
 		
-		dao.abrirTransact()
+		dao.abrirT()
 		.incluir(assento)
 		.incluir(cliente)
-		.fecharTransact()
-		.fecharDAO();
+		.fecharT()
+		.fechar();
 		
 	}
 

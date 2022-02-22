@@ -15,12 +15,12 @@ public class NovoPedido {
 		Produto produto = new Produto("Geladeira", 2789.99);
 		ItemPedido item = new ItemPedido(pedido, produto, 10);
 		
-		dao.abrirTransact()
+		dao.abrirT()
 		.incluir(produto)
 		.incluir(pedido)
 		.incluir(item)
-		.fecharTransact()
-		.fecharDAO();
+		.fecharT()
+		.fechar();
 	}
 
 }
