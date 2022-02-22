@@ -30,6 +30,10 @@ public class DAO<E> {
 		em = emf.createEntityManager();
 	}
 
+	public E obterPorID(Object id) {
+		return em.find(classe, id);
+	}
+	
 	public DAO<E> abrirTransact() {
 		em.getTransaction().begin();
 		return this;
