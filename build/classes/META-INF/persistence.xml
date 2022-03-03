@@ -5,6 +5,8 @@
     xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
     <persistence-unit name="exercicios-jpa">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+        <mapping-file>META-INF/consultas.xml</mapping-file>
         
         <!-- Mapeando as entidades para persistirem no banco -->
         <class>modelo.basico.Usuario</class>
@@ -15,8 +17,9 @@
         <class>modelo.umpramuitos.Pedido</class>
         <class>modelo.muitospramuitos.Sobrinho</class>
         <class>modelo.muitospramuitos.Tio</class>
+        <class>modelo.muitospramuitos.Ator</class>
+        <class>modelo.muitospramuitos.Filme</class>
         
-       <!--  <mapping-file>META-INF/consultas.xml</mapping-file> -->
         
         <properties>
             <property name="javax.persistence.jdbc.driver"
